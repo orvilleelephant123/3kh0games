@@ -7,6 +7,12 @@ This website may literally contain anything because multiple people are editing 
 
 Continue at your own risk!
 
+> **Note**
+> Please put links to other GitHub repos in the 3v3ry0n3 organization in /docs/links.md
+>
+> Thanks for helping prevent merge conflics!
+
+
 Editors at this time (please put your name here while you are editing:
 - mdoryammilwalrus
 
