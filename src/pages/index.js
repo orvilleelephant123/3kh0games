@@ -19,7 +19,7 @@ function HomepageHeader() {
             className="button button--secondary button--lg"
             to={siteConfig.customFields.requestToJoinURL}
             target="_blank">
-            Join this mess
+            Join the chaotic mess!
           </Link>
         </div>
       </div>
