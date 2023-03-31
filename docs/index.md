@@ -7,3 +7,4 @@ sidebar_position: 1
 Welcome to the 3v3ry0n3 docs!
 
 IDK what to put here
+same here
